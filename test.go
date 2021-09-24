@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/spruceid/didkit/tree/feature/go-package/lib/didkit-go-test"
+	"github.com/spruceid/didkit-go"
 )
 
 func main() {
