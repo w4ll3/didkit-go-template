@@ -1,0 +1,1 @@
+# didkit-go-template
